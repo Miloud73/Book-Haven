@@ -3,8 +3,8 @@ import React from "react";
 
 import { motion } from "framer-motion";
 import Link from "next/link";
-import Image from "next/image"; // Use Next.js Image component
-import avatar from "@/img/man.png"; // Ensure the correct path
+import Image from "next/image";
+import avatar from "../img/man.png";
 
 const Header = () => {
   return (
@@ -40,9 +40,9 @@ const Header = () => {
               src={avatar}
               alt="avatar"
               className="avatarStyle"
-              width={50} 
-              height={50} 
-              priority   // You can add this to load image faster
+              width={50}
+              height={50}
+              priority // You can add this to load image faster
             />
           </motion.div>
         </Link>
