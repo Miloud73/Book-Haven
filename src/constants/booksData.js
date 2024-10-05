@@ -1,6 +1,6 @@
 export const books = [
   {
-    id: 1,
+    bookId: 1,
     author: "William Shakespearee",
     title: "Soul",
     image:
@@ -42,7 +42,7 @@ export const books = [
   </p>`,
   },
   {
-    id: 2,
+    bookId: 2,
     author: "Jack Daniels",
     title: "Memory",
     image:
@@ -84,7 +84,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 3,
+    bookId: 3,
     author: "Jim Beam",
     title: "My cover",
     image: "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
@@ -124,7 +124,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 4,
+    bookId: 4,
     author: "Crown Royal",
     title: "A million to one",
     image:
@@ -166,7 +166,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 5,
+    bookId: 5,
     author: "Johnnie Walker",
     title: "Pencil",
     image:
@@ -208,7 +208,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 6,
+    bookId: 6,
     author: "Glenfiddich",
     title: "Audrey is One",
     image:
@@ -250,7 +250,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 7,
+    bookId: 7,
     author: "Captain Morgan",
     title: "The killer poison",
     image:
@@ -292,7 +292,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 8,
+    bookId: 8,
     author: "William Shakespeare",
     title: "Soul",
     image:
@@ -334,7 +334,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 9,
+    bookId: 9,
     author: "William Shakespeare",
     title: "Memory",
     image:
@@ -376,7 +376,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 10,
+    bookId: 10,
     author: "William Shakespeare",
     title: "My cover",
     image: "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
@@ -417,7 +417,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 11,
+    bookId: 11,
     author: "William Shakespeare",
     title: "A million to one",
     image:
@@ -459,7 +459,7 @@ export const books = [
       </p>`,
   },
   {
-    id: 12,
+    bookId: 12,
     author: "William Shakespeare",
     title: "Pencil",
     image:

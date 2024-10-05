@@ -15,7 +15,7 @@ const Header = () => {
         initial={{ opacity: 0, x: -1000 }}
         animate={{ opacity: 1, x: 0 }}
       >
-        <h1 className="bookTitleStyle">Book App</h1>
+        <h1 className="bookTitleStyle">Book Haven</h1>
         <motion.input
           type="text"
           placeholder="Tell me what you like to read and we will get that..."

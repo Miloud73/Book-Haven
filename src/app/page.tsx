@@ -31,7 +31,7 @@ export default function Home() {
                   key={i}
                 >
                   <a
-                    href={`/book/${book.id}`}
+                    href={`/book/${book.bookId}`}
                     style={{ textDecoration: "none" }}
                   >
                     <Card
